@@ -2,7 +2,7 @@
 
 ### Projeto Final Desenvolvido para a Disciplina de Programação Orientada a Objetos (POO) na *Universidade Federal do Ceará.*
 
-Este projeto foi concebido e executado de forma colaborativa por uma equipe composta por Emanuele Correia, Gabriela Bezerra, Kauã Ribeiro e Larissa Menezes.
+Este projeto foi concebido e executado de forma colaborativa por uma equipe composta por Emanuele Correia (emanuele-cef), Gabriela Bezerra (gabriwrld), Kauã Ribeiro (Kaua-Rbs) e Larissa Menezes (vitoriastm).
 
 ### Descrição
 
